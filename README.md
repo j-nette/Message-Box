@@ -19,7 +19,7 @@ Please set up the following cloud variables:
   - Send Values: On Change
   
 # Components
-- 2/3 pushbuttons
+- 2/3 push buttons
 - Piezo buzzer (optional)
 - Slow-glow LED
 - Potentiometer 
