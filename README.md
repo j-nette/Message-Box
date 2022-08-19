@@ -1,5 +1,5 @@
 # Message-Box
-A desktop message box with a handy light and other neat functions
+A desktop message box with a handy light and other neat functions.
 
 # Features
 - A toggleable slow-glow LED
