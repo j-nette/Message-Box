@@ -29,6 +29,8 @@ Please set up the following cloud variables:
   - Piezo buzzer (optional)
   - Slow-glow LED
   - Potentiometer 
+  - Nokia 5110 LCD
+  - Pin headers & Jumper wires
   - NodeMCU microcontroller
 - Enclosure:
   - I laser cut MDF and glued the pieces together for this project. Feel free to use other materials or even 3D print yours! 
