@@ -6,14 +6,14 @@ A desktop message box with a handy light and other neat functions
 - A dial-controlled menu
 
 # Pre-Requisites
-As this project uses [Arduino's IOT Cloud](https://create.arduino.cc/iot), you'll need to have an account, your device, and a project set up. Follow this [guide](https://docs.arduino.cc/arduino-cloud/getting-started/iot-cloud-getting-started) to get started!
+As this project uses [Arduino's IOT Cloud](https://create.arduino.cc/iot), you'll need to have an account, your device, and a project set up. Follow this [guide](https://docs.arduino.cc/arduino-cloud/getting-started/iot-cloud-getting-started) to get started.
 
 Please set up the following cloud variables:
-- cloud_light 
+- "cloud_light" 
   - Type: Light
   - Variable Permission: Read & Write
   - Send Values: On change
-- message
+- "message"
   - Type: Character String
   - Variable Permission: Read & Write
   - Send Values: On Change
