@@ -1,7 +1,7 @@
 # Message-Box
 A desktop message box with a handy light and other neat functions.
 
-# Features
+# Project Features
 - A toggleable slow-glow LED
 - A dial-controlled menu
 
